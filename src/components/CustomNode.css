@@ -1,0 +1,25 @@
+.custom-node{
+  width:220px;
+  background:white;
+  border:1px solid #ddd;
+  border-radius:12px;
+  overflow:hidden;
+  box-shadow:0 2px 8px rgba(0,0,0,0.1);
+}
+
+.node-header{
+  background:#111827;
+  color:white;
+  padding:12px;
+  font-weight:bold;
+  font-size:14px;
+}
+
+.node-body{
+  padding:15px;
+}
+
+.node-body p{
+  color:gray;
+  font-size:13px;
+}
